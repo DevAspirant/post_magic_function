@@ -1,2 +1,6 @@
 # post_magic_function
-this project is for $_POST magic function
+this project is for $_POST super global function
+
+الهدف من هذه الدالة هو ارسال المعلومات من و الى ملف او قاعدة بيانات تكون مربوطة بالمشروع 
+
+و في مثالنا احنا استخدمنا ٣ صفحات و هي صففحة يرسل لها المعلومات و صفحة تقوم باستقبال الطلبات 
